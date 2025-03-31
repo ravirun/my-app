@@ -10,7 +10,7 @@ export default function Home() {
         height={150}
         className="mb-4 mx-auto"
       />
-      <h1>
+      <h1 className="text-2xl text-center">
 We will be live soon.
       </h1>
       </>
